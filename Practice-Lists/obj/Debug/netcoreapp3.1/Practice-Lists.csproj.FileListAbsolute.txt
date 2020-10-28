@@ -1,0 +1,13 @@
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.exe
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\bin\Debug\netcoreapp3.1\Practice-Lists.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-Lists\Practice-Lists\obj\Debug\netcoreapp3.1\Practice-Lists.genruntimeconfig.cache
